@@ -64,16 +64,24 @@
 			children = (
 				DEF32AB924F659C700A9E7B0 /* AppDelegate.swift */,
 				DEF32ABB24F659C700A9E7B0 /* SceneDelegate.swift */,
-				DEF32ABD24F659C700A9E7B0 /* ViewController.swift */,
-				DEF32ACD24F659FF00A9E7B0 /* ViewController2.swift */,
-				DEF32ACF24F6622500A9E7B0 /* ViewController3.swift */,
-				DEF32AD124F6622E00A9E7B0 /* ViewController4.swift */,
+				DEF32AD324F6693E00A9E7B0 /* Controllers */,
 				DEF32ABF24F659C700A9E7B0 /* Main.storyboard */,
 				DEF32AC224F659C800A9E7B0 /* Assets.xcassets */,
 				DEF32AC424F659C800A9E7B0 /* LaunchScreen.storyboard */,
 				DEF32AC724F659C800A9E7B0 /* Info.plist */,
 			);
 			path = "Swipe Gestures";
+			sourceTree = "<group>";
+		};
+		DEF32AD324F6693E00A9E7B0 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				DEF32ABD24F659C700A9E7B0 /* ViewController.swift */,
+				DEF32ACD24F659FF00A9E7B0 /* ViewController2.swift */,
+				DEF32ACF24F6622500A9E7B0 /* ViewController3.swift */,
+				DEF32AD124F6622E00A9E7B0 /* ViewController4.swift */,
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
