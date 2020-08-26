@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "09B4759E-9699-4F65-B53A-0DB0502DB630"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEE2BBED-30E3-415F-B97C-EA82E98CF509"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swipe Gestures/ViewController2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "swipeActionRight(swipe:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BEE2BBED-30E3-415F-B97C-EA82E98CF509 - 3e282783ede6dec9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swipe_Gestures.ViewController2.swipeActionRight(swipe: __C.UISwipeGestureRecognizer) -&gt; ()"
+                  moduleName = "Swipe Gestures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Swipe%20Gestures/Swipe%20Gestures/ViewController2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "BEE2BBED-30E3-415F-B97C-EA82E98CF509 - 3e282783ede6dec9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swipe_Gestures.ViewController2.swipeActionRight(swipe: __C.UISwipeGestureRecognizer) -&gt; ()"
+                  moduleName = "Swipe Gestures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Swipe%20Gestures/Swipe%20Gestures/ViewController2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31482B3B-2C4A-4A1E-A718-2C00BECEDA02"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swipe Gestures/ViewController2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "swipeActionRight(swipe:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "31482B3B-2C4A-4A1E-A718-2C00BECEDA02 - 3e282783ede6dec9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swipe_Gestures.ViewController2.swipeActionRight(swipe: __C.UISwipeGestureRecognizer) -&gt; ()"
+                  moduleName = "Swipe Gestures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Swipe%20Gestures/Swipe%20Gestures/ViewController2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "231">
+               </Location>
+               <Location
+                  uuid = "31482B3B-2C4A-4A1E-A718-2C00BECEDA02 - 3e282783ede6dec9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swipe_Gestures.ViewController2.swipeActionRight(swipe: __C.UISwipeGestureRecognizer) -&gt; ()"
+                  moduleName = "Swipe Gestures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Swipe%20Gestures/Swipe%20Gestures/ViewController2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "250">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6085268-9CCB-4C68-B15E-78CF8D172B5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Swipe Gestures/ViewController2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "swipeActionRight(swipe:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F6085268-9CCB-4C68-B15E-78CF8D172B5E - 3e282783ede6dec9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swipe_Gestures.ViewController2.swipeActionRight(swipe: __C.UISwipeGestureRecognizer) -&gt; ()"
+                  moduleName = "Swipe Gestures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Swipe%20Gestures/Swipe%20Gestures/ViewController2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "F6085268-9CCB-4C68-B15E-78CF8D172B5E - 3e282783ede6dec9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Swipe_Gestures.ViewController2.swipeActionRight(swipe: __C.UISwipeGestureRecognizer) -&gt; ()"
+                  moduleName = "Swipe Gestures"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Swipe%20Gestures/Swipe%20Gestures/ViewController2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
